@@ -12,4 +12,7 @@ Use commands:<br>
 ## Setup
 1. Install dependencies: `pip install -r requirements.txt`
 2. Create a `.env` file with your Discord token
-3. Run: `python main.py`
+3. Run: `python main.py` <br>
+
+## Demo Video<br>
+https://github.com/user-attachments/assets/66fa829c-5b8f-4628-a849-007b70819cd5
