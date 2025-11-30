@@ -1,13 +1,13 @@
 # Discord Homework Bot
 
-A Discord bot to manage class assignments and due dates. This is a work in progress!
+A Discord bot to manage class assignments and due dates. This is a work in progress!<br>
 
-Use commands:
-!addclass (class name)
-!removeclass (class name)
-!addassignment (class name, assignment name, due date)
-!removeassignment (class name, assignment name, due date)
-!listassignments (class name)
+Use commands:<br>
+!addclass (class name)<br>
+!removeclass (class name)<br>
+!addassignment (class name, assignment name, due date)<br>
+!removeassignment (class name, assignment name, due date)v
+!listassignments (class name)<br>
 
 ## Setup
 1. Install dependencies: `pip install -r requirements.txt`
