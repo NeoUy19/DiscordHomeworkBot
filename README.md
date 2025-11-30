@@ -6,7 +6,7 @@ Use commands:<br>
 !addclass (class name)<br>
 !removeclass (class name)<br>
 !addassignment (class name, assignment name, due date)<br>
-!removeassignment (class name, assignment name, due date)v
+!removeassignment (class name, assignment name, due date)<br>
 !listassignments (class name)<br>
 
 ## Setup
